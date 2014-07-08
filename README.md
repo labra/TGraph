@@ -15,7 +15,7 @@ Links
 * Paper: [Inductive Triple Graphs: A purely functional approach to represent RDF](http://di002.edv.uniovi.es/~labra/FTP/Papers/GKR13_TripleInductiveGraphs.pdf), DOI: 10.1007/978-3-319-04534-4_7 In book: Graph Structures for Knowledge Representation and Reasoning, Publisher: Springer International Publishing, Editors: Croitoru, Madalina and Rudolph, Sebastian and Woltran, Stefan and Gonzales, Christophe, pp.92-110.
   [Slides of a presentation](http://www.slideshare.net/jelabra/inductive-triplegraphs-gkr13simplified)
 * [Binaries](https://bintray.com/weso/weso-releases/tgraph/view)
-* [![Build Status](https://travis-ci.org/labra/tgraph.svg?branch=master)](https://travis-ci.org/labra/tgraph)
+* [![Build Status](https://travis-ci.org/labra/TGraph.svg?branch=master)](https://travis-ci.org/labra/TGraph)
 
 
 Author
